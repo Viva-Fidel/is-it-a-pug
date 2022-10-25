@@ -1,8 +1,3 @@
-# Is it a pug?
-## Introduction
-Many people confuse pugs with other breeds, especially with frenchies. To help people recognize pugs this app was made
-
-## Usage
 ---
 title: Pug Or Not A Pug
 emoji: 🐨
@@ -15,6 +10,12 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Is it a pug?
+## Introduction
+Many people confuse pugs with other breeds, especially with frenchies. To help people recognize pugs this app was made
+
+## Usage
+
+Check out the app: https://huggingface.co/spaces/Viva-Fidel/pug-or-not-a-pug
 
 In order to use the app, just open the link and upload the photo of the animal!
